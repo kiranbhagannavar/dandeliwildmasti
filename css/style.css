@@ -1451,7 +1451,9 @@ bottom: -50px; }
 -webkit-transition: .2s all ease;
 -o-transition: .2s all ease;
 transition: .2s all ease;
-opacity: 1; }
+opacity: 1;
+padding: 4px;
+border: 1px solid black; }
 
 .img-opacity:hover {
 cursor: -webkit-zoom-in;
