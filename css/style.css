@@ -1473,18 +1473,19 @@ z-index: 2;
 }
 
 .welcomeContent {
-	font-weight: bold;
+    font-weight: bold;
     text-transform: uppercase;
-    font-size: 31px;
+    font-size: 22px;
     padding: 20px 10px;
     color: #fff;
-    text-align: center;
-    text-shadow: 2px 2px #000;
+    text-shadow: 2px 1px #000;
+    letter-spacing: 0.2em;
+    font-family: "candara";
 }
 .welcomeAnswer {
-font-size: 30px;
-letter-spacing: 0em;
-color: aqua;
-font-family: monospace;
-text-shadow: 2px 1px #000;
+    font-size: 25px;
+    letter-spacing: 0.1em;
+    color: aqua;
+    text-shadow: 2px 1px #000;
+    font-family: "candara";
 }
