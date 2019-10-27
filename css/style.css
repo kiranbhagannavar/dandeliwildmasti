@@ -1491,3 +1491,16 @@ z-index: 2;
     text-shadow: 2px 1px #000;
     font-family: "candara";
 }
+
+.pk-info {
+    position: absolute;
+    bottom: 241px;
+    right: 20px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.46);
+    border-radius: 18px;
+    font-weight: bold;
+    display: inline-block;
+}
