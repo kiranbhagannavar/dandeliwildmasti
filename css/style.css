@@ -1285,7 +1285,8 @@ left: 0;
 z-index: 2; }
 
 .media-with-text .heading {
-font-size: 18px; }
+font-size: 25px;
+font-weight: bold; }
 .media-with-text .heading a {
 color: #000; }
 
