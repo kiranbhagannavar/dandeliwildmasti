@@ -1475,6 +1475,19 @@ text-align: center;
 z-index: 2;
 }
 
+.my-floatleft{
+    font-size: 50px;
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 7px;
+    left: 6px;
+    color: #4AC959;
+    border-radius: 50px;
+    text-align: center;
+    z-index: 2;
+    }
+
 .welcomeContent {
     font-weight: bold;
     text-transform: uppercase;
